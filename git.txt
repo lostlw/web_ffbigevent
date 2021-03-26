@@ -1,0 +1,11 @@
+git add .
+git commit -m "完成了主页功能开发" 
+git push -u origin main
+
+git branch 查看分支
+
+git checkout 分支名字master
+
+git merge 合并分支
+
+git checkout -b index 创建分支
