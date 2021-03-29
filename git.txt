@@ -2,6 +2,8 @@ git add .
 git commit -m "完成了主页功能开发" 
 git push -u origin main
 
+git push -u origin index
+
 git branch 查看分支
 
 git checkout 分支名字master
